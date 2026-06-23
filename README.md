@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Perkenalkan saya Ifan Mulyawan akrab disapa Ipan. Saya merupakan seorang pelajar dari jurusan Rekayasa Perangkat Lunak di SMK TI Bali Global Denpasar.</p>
-<p align="left">Saya sangat memiliki.</p>
+<p align="left">Saya sangat memiliki antusias pada robotika khususnya di bidang IoT dengan fokus di robotika dan integrasi sistem ke dalam kehidupan sehari-hari, meski begitu saya tetap melakukan eksplorasi juga pada pengembangan website.</p>
 
 ###
 
