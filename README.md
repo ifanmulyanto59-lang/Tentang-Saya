@@ -7,8 +7,11 @@ Disini saya sangat tertarik pada dunia teknologi khususnya di bidang robotika da
 sehari-hari, meski begitu saya juga suka mengekplorasi pada pengembangan UI/UX Design dan Website.
 
 🤖 Beginner IoT Engineer (ESP32 Enthusiastic)
+
 🎨 Beginner UI / UX Design (Figma)
+
 🌐 Beginner Frontend Web & Backend Web Developer
+
 💻 Tech Enthusiastic
 
 #Bahasa Pemrograman
